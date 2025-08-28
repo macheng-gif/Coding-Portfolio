@@ -1,0 +1,1 @@
+All of this code is written in python. Most of it I have written myself with the help of Chat-GPT and some of the code I collaborated with my coworker to write. I wrote this code for my Student Housing IT job and it is used daily to complete repetitive tasks autonomously. 
